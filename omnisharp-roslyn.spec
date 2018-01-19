@@ -8,7 +8,7 @@ Group:         Development Tools
 
 URL:           https://github.com/OmniSharp/omnisharp-roslyn
 License:       MIT
-Source0:       https://github.com/OmniSharp/omnisharp-roslyn/releases/download/v%{version}/omnisharp-linux-x64.tar.gz
+Source0:       https://github.com/OmniSharp/omnisharp-roslyn/releases/download/v%{version}/omnisharp.http-linux-x64.tar.gz
 ExclusiveArch: x86_64
 
 Autoreq: 0
