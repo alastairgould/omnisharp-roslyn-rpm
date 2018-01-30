@@ -22,6 +22,5 @@ rm -rf $RPM_BUILD_ROOT
 mkdir -p %{buildroot}/%{_prefix}/%{name}
 tar -xf %{SOURCE0} --directory %{buildroot}/%{_prefix}/%{name}/ --mode=755
 
-
 %files
 /%{_prefix}/%{name}/
